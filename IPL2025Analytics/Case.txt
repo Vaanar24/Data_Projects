@@ -1,0 +1,27 @@
+About Dataset
+UPVOTE would be appreciation!
+Any Queries or requirements, Please feel free to share them with me!!
+
+Context:
+
+The Indian Premier League (IPL) has carved out a special place for itself in the hearts of cricket lovers from the very first season itself in 2008. It is a professional Twenty20 cricket league in India, organized by the Board of Control for Cricket in India (BCCI). Founded in 2007, the league features ten state or city-based franchise teams. The IPL is the most popular and richest cricket league in the world and is held between March and May.
+
+The current defending champions are the Kolkata Knight Riders, who won the 2024 season after defeating Sunrisers Hyderabad in the final. IPL 2025 is the 18th edition of the tournament. This edition of the prestigious tournament commenced on March 22, 2025 and the Final will be played on May 25, 2025.
+
+The 74 matches of the season will be played across 13 venues and will include 12 double-headers. While the afternoon games will begin at 03.30 PM IST, the evening games will begin from 07.30 PM IST.
+
+Content:
+
+Primary file -> matches.csv: Contains detailed information for each match played.
+Secondary files->
+deliveries: Ball by ball data
+orange_cap: Top batting performances
+purple_cap: Top bowling performances
+
+Acknowledgements:
+
+The data source is Google and the ESPN official website.
+
+Inspiration:
+
+You can use this data to analyze each team performances, create visualizations to explore tournament results and also predict outcomes of future ipl matches (for eg: fantasy prediction).
